@@ -1,1 +1,3 @@
 추 가 테스트 -LG
+vscode 에서 ctrl+shift+p 눌러 repository 주소 넣는다. 
+연결한 directroy  선택하면 끝.
